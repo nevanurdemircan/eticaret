@@ -1,0 +1,11 @@
+
+G	java:S106L"+Replace this use of System.out by a logger.(ÓçÏÊ8«ËÒ±Ø1
+L	java:S106N"+Replace this use of System.out by a logger.(Ü¾ïˆùÿÿÿÿ8«ËÒ±Ø1
+L	java:S106P"+Replace this use of System.out by a logger.(Ø¦ˆŞúÿÿÿÿ8¬ËÒ±Ø1
+L	java:S106S"+Replace this use of System.out by a logger.(âĞÔÇûÿÿÿÿ8¬ËÒ±Ø1
+R
+java:S1172V"0Remove this unused method parameter "productId".(Ôšİƒüÿÿÿÿ8¬ËÒ±Ø1
+G	java:S106Y"+Replace this use of System.out by a logger.(ÓçÏÊ8¬ËÒ±Ø1
+L	java:S106`"+Replace this use of System.out by a logger.(§ÖÎéÿÿÿÿÿ8­ËÒ±Ø1
+L	java:S106d"+Replace this use of System.out by a logger.(‚¹ÀÏüÿÿÿÿ8­ËÒ±Ø1
+G	java:S106h"+Replace this use of System.out by a logger.(äıÚÇ8­ËÒ±Ø1
